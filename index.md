@@ -3,7 +3,11 @@
 For feedback or support please contact me at framingcalc@gmail.com. If you like the app please leave a review / rating.
 
 ## Input values
-Enter values in decimal or imperial format, an apostrophe suffix denotes feet. Examples of valid inputs: 5.5, 5', 5.5'6 3/16 etc.
+Enter values in decimal or imperial format, an apostrophe suffix denotes feet. Examples of valid inputs: 
+* 5.5 
+* 5'
+* 5.5'6 3/16
+* 5' 6.5
 
 ## Input fields
 **RO rise -** the total rise of the stairs, can be used to find landing height
