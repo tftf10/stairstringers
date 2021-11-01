@@ -1,6 +1,6 @@
 # Stair stringer calculator
 
-For feedback or support please contact me at framingcalc@gmail.com. If you like the app please leave a review / rating.
+For feedback or support please contact me at <framingcalc@gmail.com>. If you like the app please leave a review / rating.
 
 ## Input values
 Enter values in decimal or imperial format, an apostrophe suffix denotes feet. Examples of valid inputs: 
