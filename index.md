@@ -33,8 +33,7 @@ Enter values in decimal or imperial format, an apostrophe suffix denotes feet. E
 
 **Stringer length -** The total length of board you need to cut the stringer from
 
-**Marks -** Each mark corresponds to a point of a step on the stringer with the last mark being the end of the stringer. Mark the lengths along the edge of a board. P
-lace your angle guide on these points to mark the steps.
+**Marks -** Each mark corresponds to a point of a step on the stringer with the last mark being the end of the stringer. Mark the lengths along the edge of a board. Place your angle guide (framing square etc.) on these points to mark the steps.
 
 ![](stringerlayout.PNG)
 
@@ -45,7 +44,7 @@ The rise (if not given) is calculated from (RO rise - btm flooring tk + top floo
 The bottom rise is adjusted to account for tread thickness and flooring thickness.
 
 ## Notes
-If you use the rise to calculate your stairs there will be a remainder due to rounding to account for. This is shown as (REM: ) next to the rise value. For example a REM of -1/2 means you need to deduct -1/2 from the rises over the length of the stringer. **You do not need to do this if using the generated marks.**
+If you use the rise to calculate your stairs there will be a remainder due to rounding to account for. This is shown as (REM: ) next to the rise value. For example a REM of -1/2 means you need add 1/2 to the rises over the length of the stringer. **You do not need to do this if using the generated marks.**
 
 
 
